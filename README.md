@@ -37,7 +37,7 @@ ________________________________________________________________________________
 ## **Recourses** 💡
 [ Javascrpit: W3sschools](https://www.w3schools.com/)
 
-[My Github: Live website](https://katherineyoguez.github.io/RandomPasswordGen/)
+[My Github: Live website](https://katherineyoguez.github.io/workscheduler/)
 
 ___________________________________________________________________________________________________________________________________________________
 
